@@ -1,0 +1,10 @@
+登录地址：       https://github.com/
+登录账号密码：262991897@qq.com   /  yhb781206
+
+git status
+
+git add.
+
+git commit -m "init file by yuhaibin"
+
+git push origin master
